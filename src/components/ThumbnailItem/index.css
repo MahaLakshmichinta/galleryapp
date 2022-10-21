@@ -1,0 +1,21 @@
+/* Write your code here. */
+.list_container {
+  margin-top: 16px;
+  margin-bottom: 10px;
+}
+.btn-image {
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.thumbnailActive {
+  width: 70px;
+  height: 70px;
+  opacity: 0.5;
+}
+.thumbnailInActive {
+  width: 70px;
+  height: 70px;
+  opacity: 1;
+}
